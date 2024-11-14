@@ -1,0 +1,79 @@
+body{
+    background-color: rgba(218, 202, 189, 0.678);;
+}
+
+.carousel-inner{
+    padding: 10px;
+    background-color: white;
+}
+#left{
+text-align: justify;
+padding-top: 40px;
+}
+#right{
+    text-align: justify;
+    padding-top: 40px;
+    }
+.head1{
+    color: blueviolet;
+}
+.head2{
+    color: blueviolet;
+}
+.Quote{
+    color: blueviolet;
+}
+.p1{
+padding-top: 20px;
+}
+
+.Alumni{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.head3{
+    color: blueviolet;
+    margin-top: 25px;
+    text-align: center;
+}
+.Faculties{
+    margin-top: 40px;
+    background-color: rgba(224, 199, 178, 0.26);
+}
+.card-text{
+    text-align: justify;
+   
+}
+.Faculties2{
+    padding: 40px;
+    background-color: rgba(224, 199, 178, 0.26);
+}
+.card-body{
+   background-color: rgba(109, 103, 92, 0.158);
+}
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.card:hover {
+    box-shadow: 10px 10px 15px 0px rgba(173, 121, 43, 0.75);
+    transform: translateY(-5px) scale(1.05); 
+    -webkit-box-shadow: 10px 10px 15px 0px rgba(173, 121, 43, 0.75);
+    -moz-box-shadow: 10px 10px 15px 0px rgba(173, 121, 43, 0.75);
+}
+
+#No1{
+    text-align: center;
+    padding: 40px;
+}
+#No1Para{
+    color: rgb(0, 0, 0);
+}
+#feedback{
+    text-align: center;
+}
+#SectFeedback{
+    background-color:  rgba(252, 219, 192, 0.678);;
+}

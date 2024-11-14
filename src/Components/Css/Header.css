@@ -1,0 +1,26 @@
+
+#origami {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    background-color: rgba(218, 202, 189, 0.678);
+}
+
+.navbar-nav .nav-item {
+    margin-right: 60px; 
+}
+
+.nav-link{
+    font-style: oblique;
+}
+.nav-link:hover {
+    color: #f8f9fa;
+    background-color: #007bff; 
+    border-radius: 5px; 
+}
+
+.dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: #007bff;
+}

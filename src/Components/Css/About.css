@@ -1,0 +1,63 @@
+#imgAbout{
+    padding-top: 15px;
+  
+}
+
+body{
+    background-color: white
+}
+#imgTag{
+    height: 270px;
+}
+#img2{
+   padding: 100px;
+  
+   
+}
+#details{
+    padding: 100px;
+    text-align: justify;
+    
+}
+#Q{
+    justify-content: center;
+}
+#Qtext{
+    text-align: left;
+    padding-left:100px;
+}
+#Qpic{
+    padding: 0;
+}
+#QPara{
+
+  
+    padding-left: 100px;
+    text-align: justify;
+    
+}
+
+#Doubt{
+    padding-left: 40px;
+  
+}
+#DoubtImg{
+    padding-left: 100px;
+}
+#D-Para{
+    text-align: justify;
+}
+#HLive{
+    text-align: left;
+}
+#Notes{
+    padding: 100px;
+}
+#NotesImg{
+    padding-left: 100px;
+}
+#NotesUL{
+    padding-top: 100px;
+    padding-left: 100px;
+    text-align: justify;
+}

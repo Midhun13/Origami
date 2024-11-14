@@ -1,0 +1,107 @@
+
+.spoke-section, .why-us-section {
+    padding: 40px 20px;
+    background-color: #f9f9f9; 
+  }
+  
+  h2 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #QnPara {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555; 
+    text-align: justify;
+  }
+  
+  #UL {
+    list-style-type: none; 
+    padding-left: 0; 
+  }
+  
+  #UL li {
+    background: #fff; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    padding: 10px;
+    margin-bottom: 10px; 
+  }
+  
+  .benefits-list {
+    padding-left: 20px; 
+  }
+  
+  .benefits-list li {
+    font-size: 1rem; 
+    margin-bottom: 10px; 
+    color: #555;
+  }
+  
+  .team-image {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 10px; 
+  }
+  
+  #WhyUS{
+      padding: 100px;
+  }
+  #sect1{
+      padding: 40px;
+  }
+  #head4{
+      text-align: left;
+  }
+  #UL li:hover {
+      background-color: #f0f0f0; 
+      color: #333; 
+      cursor: pointer; 
+    }
+    #Team{
+      margin-left: 100px;
+    }
+    #Enrol{
+      background-color: #eeeded;
+    }
+    .apply-button {
+      display: inline-block;
+      background-color: #007BFF; 
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+      transition: transform 0.3s, background-color 0.3s;
+    }
+    
+    .apply-button a {
+      color: black; 
+      text-decoration: none;
+    }
+    
+    .apply-button:hover {
+      transform: scale(1.1); 
+      background-color: #0056b3; 
+    }
+  
+    .card-hover {
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    
+    .card-hover:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    }
+  #SCard{
+      background-color: #dddddd93;
+  }  
+    #Plans{
+      text-align: center;
+      background-color: #0057b34f;
+    }
+    #planDetail{
+      padding: 20px;
+    }

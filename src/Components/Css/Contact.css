@@ -1,0 +1,92 @@
+
+.container {
+    margin-top: 50px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .form-control:focus {
+    border-color: #66afe9;
+    outline: none;
+    box-shadow: 0 0 5px rgba(102, 175, 233, .5);
+  }
+  
+  .invalid-feedback {
+    display: none; 
+    color: red;
+    font-size: 12px;
+  }
+  
+  .form-control.is-invalid ~ .invalid-feedback {
+    display: block; 
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  img {
+    max-width: 100%; 
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+  }
+  
+  #successMessage {
+    text-align: center;
+    color: green;
+    margin-top: 20px;
+  }
+  #head5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #Contact{
+    text-align: center;
+  }
+  .ContactSect{
+  
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+ #HeadingCont{
+    font-weight: bolder;
+ }
+ #MapDiv{
+    padding: 40px;
+ }
+ #title{
+    padding-left: 80px;
+ }
+ #contactdiv{
+    padding-top: 100px;
+ }
