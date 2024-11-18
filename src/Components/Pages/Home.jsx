@@ -1,10 +1,10 @@
 import React from 'react';
 import '../Css/Home.css'
 import Banner1 from '../Images/Banner1.png'
-import Banner2 from '../Images/Banner2.png'
-import Banner3 from '../Images/Banner3.png'
-import Banner4 from '../Images/Banner4.png'
-import Banner5 from '../Images/Banner5.png'
+import Banner2 from '../Images/banner2.png'
+import Banner3 from '../Images/banner3.png'
+import Banner4 from '../Images/banner4.png'
+import Banner5 from '../Images/banner5.png'
 import Alumni1 from '../Images/Alumni1.jpg'
 import Alumni4 from '../Images/Alumni4.jpg'
 
