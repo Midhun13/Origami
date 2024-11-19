@@ -82,7 +82,7 @@ const Contact = () => {
             <div className="col-md-6 " id='contactdiv'>
               <h2 id='HeadingCont'>Contact Details</h2>
               <p id='Contact'><i class="bi bi-telephone"></i> Phone: +91 90754xxx</p>
-              <p id='Contact'><i class="bi bi-geo-alt"></i> Address:  123 Origami St, Language City,Delh</p>
+              <p id='Contact'><i class="bi bi-geo-alt"></i> Address:  123 Origami St, Language City,Delhi</p>
               <p id='Contact'><i class="bi bi-envelope"></i> Email:info@origamienglish.com</p>
               <img src={ContactImg2} alt="Contact2" width={300} />
               
